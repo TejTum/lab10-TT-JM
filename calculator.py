@@ -4,10 +4,7 @@ calculator.py
 
 One function per operation, in order.
 """
-# First example
-def add(a, b): 
-    pass
-    
+# First example    
 import math
 
 def square_root(a):
